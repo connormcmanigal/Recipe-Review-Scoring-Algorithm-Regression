@@ -1,4 +1,4 @@
-# Recipe Review Sentiment Analysis and ML Project
+# Enhancing Recipe Review Scores: Leveraging Sentiment Analysis and Data Augmentation
 ### Connor McManigal, Peyton Politewicz, and Harold Ng
 
 ## Overview:
