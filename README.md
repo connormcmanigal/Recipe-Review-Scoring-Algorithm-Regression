@@ -1,4 +1,5 @@
-# Enhancing Recipe Review Scores: Leveraging Sentiment Analysis and Data Augmentation
+# Recipe Review Scoring Enhancement
+## Leveraging Sentiment Analysis and Data Augmentation to Recreate Scoring Algorithm with Limited Data
 ### Connor McManigal, Peyton Politewicz, and Harold Ng
 
 ## Overview:
