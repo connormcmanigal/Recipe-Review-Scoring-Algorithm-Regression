@@ -2,7 +2,7 @@
 ## Leveraging Sentiment Analysis and Data Augmentation to Recreate Scoring Algorithm with Limited Data
 ### Connor McManigal, Peyton Politewicz, and Harold Ng
 
-*View the project here:* https://connormcmanigal.github.io/Recipe-Review-Scoring-Algorithm-Regression/
+*View the project here:* https://connormcmanigal.github.io/Recipe-Review-Scoring-Algorithm-Regression/report.pdf
 
 ## Overview:
 
